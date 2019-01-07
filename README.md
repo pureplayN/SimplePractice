@@ -1,2 +1,2 @@
 # SimplePractice
-简单学习pytyon
+简单学习python
